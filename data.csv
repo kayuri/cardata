@@ -1,0 +1,42 @@
+brand,model,year,engine,price,mileage
+jaguar,xf,2012,2,28462,5000
+jaguar,xf,2012,3,21538,6000
+jaguar,s-type,1999,4,1985,143000
+jaguar,xf,2012,3,21523,44000
+jaguar,xf,2011,3,25385,23000
+jaguar,x-type,2005,2,6615,62000
+jaguar,xf,2011,3,20446,32000
+jaguar,x-type,2005,2.1,6538,80000
+jaguar,s-type,2005,2.5,9985,95000
+ford,focus,2003,1.6,9985,12000
+ford,focus,2012,2,8615,48000
+ford,focus,2008,1.6,6000,58000
+ford,focus,2005,2,3538,82000
+ford,focus,2003,2,3077,72000
+ford,focus,2011,1.6,7077,25000
+ford,focus,2012,1.6,8462,13000
+ford,focus,2000,2,2231,124000
+toyota,corolla,2006,1.6,6462,116000
+toyota,corolla,2004,1.6,5231,124000
+toyota,corolla,1992,1.6,1692,217000
+toyota,corolla,2008,1.6,6462,161000
+toyota,corolla,2003,1.8,5308,106000
+toyota,corolla,2001,1.5,2462,130000
+toyota,corolla,2006,1.6,6923,105000
+toyota,corolla,1997,1.5,2154,27000
+toyota,corolla,2005,1.6,5385,109000
+toyota,corolla,2007,1.4,6385,43000
+toyota,land cruiser,2011,4.5,36154,51000
+toyota,land cruiser,2012,4.5,43231,31000
+toyota,land cruiser,2006,4.7,22308,66000
+toyota,land cruiser,2007,4.7,27615,84000
+toyota,land cruiser,2008,4.7,26154,75000
+toyota,land cruiser,2004,4.7,21308,131000
+toyota,land cruiser,2006,4.2,24600,93000
+subaru,legacy,2004,2,7369,105000
+subaru,legacy,2005,2,7846,64000
+subaru,legacy,2001,2,6923,71000
+subaru,legacy,2011,2.5,14462,56000
+subaru,legacy,2012,2.5,16462,42000
+subaru,legacy,2007,3,10277,106000
+subaru,legacy,2006,3,9692,109000
